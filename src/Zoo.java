@@ -4,7 +4,4 @@ public abstract class Zoo {
         System.out.println(animal.show());
     }
 
-    public static void hacerShowAgua(AnimalNadador animal) {
-    }
-
 }
