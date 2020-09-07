@@ -1,4 +1,6 @@
-public class Aguila extends Animal{
+package src.animales;
+
+public class Aguila extends Animal {
 
     @Override
     public String show() {

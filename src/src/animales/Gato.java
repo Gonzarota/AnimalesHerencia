@@ -1,3 +1,5 @@
+package src.animales;
+
 public class Gato extends Animal {
 
     @Override
